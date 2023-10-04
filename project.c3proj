@@ -12,13 +12,28 @@
 			"name": "Sprite",
 			"author": "Scirra",
 			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "Platform",
+			"name": "Platform",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "solid",
+			"name": "Solid",
+			"author": "Scirra",
+			"bundled": false
 		}
 	],
 	"uniqueId": "afdt80h0r0z",
 	"objectTypes": {
 		"items": [
 			"Sprite",
-			"Sprite2"
+			"Sprite2",
+			"Sprite3"
 		],
 		"subfolders": []
 	},
