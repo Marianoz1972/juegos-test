@@ -17,7 +17,8 @@
 	"uniqueId": "afdt80h0r0z",
 	"objectTypes": {
 		"items": [
-			"Sprite"
+			"Sprite",
+			"Sprite2"
 		],
 		"subfolders": []
 	},
