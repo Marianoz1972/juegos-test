@@ -17,7 +17,12 @@
 	"uniqueId": "afdt80h0r0z",
 	"objectTypes": {
 		"items": [
+<<<<<<< HEAD
 			"Sprite"
+=======
+			"Sprite",
+			"Sprite2"
+>>>>>>> parent of aa2cbf9 (conejo)
 		],
 		"subfolders": []
 	},
